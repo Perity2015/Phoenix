@@ -162,6 +162,8 @@ public class CarRefreshView extends BaseRefreshView implements Animatable {
     }
 
     private void drawTown(Canvas canvas) {
+
+
         Matrix matrix = mMatrix;
         matrix.reset();
 
